@@ -26,13 +26,17 @@ Assignments for all courses of Coursera Deep Learning Specialization of Andrew N
 There are no programming assignments for this course.
 
 ### Course 4: Convolutional Neural Networks
-#### Week 1 - Convolutional Model, step by step
+#### Week 1 
+       - Convolutional Model, step by step
        - Convolution Model Application
-#### Week 2 - Residual Networks
+#### Week 2 
+       - Residual Networks
        - Transfer Learning with MobileNet
-#### Week 3 - Car detection with YOLO
+#### Week 3 
+       - Car detection with YOLO
        - Image Segmentation with U-Net
-#### Week 4 - Face Recognition
+#### Week 4 
+       - Face Recognition
        - Art Generation with Neural Style Transfer
 
 ### Course 5: Sequence Models
