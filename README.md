@@ -3,10 +3,13 @@
 Assignments for all courses of Coursera Deep Learning Specialization of Andrew Ng.
 
 ### Course 1: Neural Networks and Deep Learning
-#### Week 2 - Python Basics with Numpy
+#### Week 2 
+       - Python Basics with Numpy
        - Logistic Regression with a Neural Network mindset
-#### Week 3 - Planar data classification with one hidden layer
-Week 4 - Building your Deep Neural Network: Step by Step
+#### Week 3 
+       - Planar data classification with one hidden layer
+#### Week 4 
+       - Building your Deep Neural Network: Step by Step
        - Deep Neural Network - Application
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
