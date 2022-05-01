@@ -52,3 +52,6 @@ There are no programming assignments for this course.
        - Trigger Word Detection
 #### Week 4 
        - Transformer Architecture with TensorFlow
+
+### Disclaimer
+The uploaded solution are only for reference. Please do not copy paste any part of the code.
