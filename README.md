@@ -10,9 +10,9 @@ Week 4 - Building your Deep Neural Network: Step by Step
        - Deep Neural Network - Application
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-Week 1 - Initialization
-       - Regularization
-       - Gradient Checking
+-[Week 1 - Initialization]
+       -[- Regularization]
+       -[- Gradient Checking]
 Week 2 - Optimization Methods
 Week 3 - TensorFlow Introduction
 
